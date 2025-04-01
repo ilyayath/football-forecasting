@@ -2,12 +2,12 @@
 
 ## Analyzing and predicting the results of football matches
 
-The idea: Create a model that analyzes historical data from soccer matches and predicts the probability of winning, drawing, or losing for certain teams. You can add analysis of player statistics (goals, assists, injuries) or even fan sentiment from social media.
+###The idea: Create a model that analyzes historical data from soccer matches and predicts the probability of winning, drawing, or losing for certain teams.Can be added analysis of player statistics (goals, assists, injuries) or even fan sentiment from social media.
 
 ### Development stages:
 
     Data collection:
-        Use a soccer data API (for example, Football-Data.org, StatsBomb, or SofaScore API).
+        Use a soccer data API (for example SofaScore ).
         Collect historical data about matches (results, team statistics, players' uniforms).
         (Optional) Pair posts from X about teams or players for sentiment analysis.
     Data processing:
@@ -22,7 +22,7 @@ The idea: Create a model that analyzes historical data from soccer matches and p
 ### Technologies:
 
     Python (pandas, numpy for data processing).
-    Scikit-learn, TensorFlow/PyTorch for models.
-    BeautifulSoup/Scrapy for parsing (if you need data from websites).
+    Scikit-learn, PyTorch for models.
+    BeautifulSoup/Scrapy for parsing.
     Flask/FastAPI for web deployment.
     Docker for containerization.
