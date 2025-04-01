@@ -1,4 +1,4 @@
-# football-forecasting
+# Football matches forecasting
 
 1. Analyzing and predicting the results of football matches
 
