@@ -2,7 +2,7 @@
 
 ## Analyzing and predicting the results of football matches
 
-###The idea: Create a model that analyzes historical data from soccer matches and predicts the probability of winning, drawing, or losing for certain teams.Can be added analysis of player statistics (goals, assists, injuries) or even fan sentiment from social media.
+### The idea: Create a model that analyzes historical data from soccer matches and predicts the probability of winning, drawing, or losing for certain teams.Can be added analysis of player statistics (goals, assists, injuries) or even fan sentiment from social media.
 
 ### Development stages:
 
